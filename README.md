@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itssukrut
+- 👋 Hi, I’m Sukrut
 - 👀 I’m interested in learning about cybersecurity, software development for mobile devices
 - 🌱 I’m currently learning more about future of computing
 - 💞️ I’m looking to collaborate on cool open-source projects
